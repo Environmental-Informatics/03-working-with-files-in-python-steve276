@@ -1,0 +1,9 @@
+1	Bondville	BVL	40.05	88.22	213
+2	Dixon Springs-Bare	DXB	37.45	88.67	165
+3	Brownstown	BRW	38.95	88.95	177 
+4	Orr Center (Perry)	ORR	39.80	90.83	206 
+5	De Kalb	DEK	41.85	88.85	265 
+6	Monmouth	MON	40.92	90.73	229 
+8	Peoria	ICC	40.70	89.52	207 
+9	Springfield	LLC	39.52	89.62	177 
+10	Belleville	FRM	38.52	89.88	133 
